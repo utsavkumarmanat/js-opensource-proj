@@ -1,6 +1,6 @@
 console.log("hello");
 hello
-hi
-hi
-hello
+hi ATanu here
+hi Prash
+hello Vishika
 adghifhigfs
